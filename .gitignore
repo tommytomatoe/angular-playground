@@ -1,6 +1,9 @@
 # OS X files
 .DS_STORE
 
+# VisualStudioCode
+.vscode
+
 # Logs
 logs
 *.log
